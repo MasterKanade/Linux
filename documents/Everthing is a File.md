@@ -96,6 +96,8 @@ If we delete hardlink:
 1. The other filenames/hardlinks remain same intact
 2. The data is only deleted if all hardlinks are removed.
 
+![hardlink](../images/hardlink.png)
+
 How can we create a hardlink?
 ==> we can use ln command for this (without -s option)
 Syntax:
