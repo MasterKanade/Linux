@@ -1,6 +1,6 @@
 What is a file?
 
-1. A container for storing. accessing or managing data
+1. A container for storing, accessing or managing data
 2. Typically associated with a unique identifier or filename
 3. This name is combined with its path, provides a unique location for each file in a file system.
 
@@ -14,3 +14,7 @@ File can have various attributes (stroed in inode):
 How is the data stored?
 ==>
 ![how_data_is_stored](../images/how_data_is_stored.PNG)
+
+How does folder work?
+==>
+![how_folder_work](../images/how_folder_works.PNG)
