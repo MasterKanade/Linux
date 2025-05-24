@@ -13,11 +13,11 @@ File can have various attributes (stroed in inode):
 
 How is the data stored?
 ==>
-![how_data_is_stored](../images/how_data_is_stored.PNG)
+![how_data_is_stored](../images/Basics/how_data_is_stored.PNG)
 
 How does folder work?
 ==>
-![how_folder_work](../images/how_folder_works.PNG)
+![how_folder_work](../images/Basics/how_folder_works.PNG)
 
 Files on Linux system:
 
@@ -96,7 +96,7 @@ If we delete hardlink:
 1. The other filenames/hardlinks remain same intact
 2. The data is only deleted if all hardlinks are removed.
 
-![hardlink](../images/hardlink.png)
+![hardlink](../images/Basics/hardlink.png)
 
 How can we create a hardlink?
 ==> we can use ln command for this (without -s option)
